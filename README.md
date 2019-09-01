@@ -8,6 +8,8 @@ Add Pod:  pod 'Mapbox-iOS-SDK', '~> 5.2'
 Complete How to Video on my YouTube Channel : https://youtu.be/VXpwr0UI0Zo
 
 
+I have 4 iOS App Templates w/package deal for $70 : http://empireappdesignz.com/#admob
+<br>
 Twitter: https://twitter.com/EIosdev
 <br>
 Website: http://www.empireappdesignz.com
