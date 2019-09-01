@@ -7,7 +7,7 @@ Add Pod:  pod 'Mapbox-iOS-SDK', '~> 5.2'
 
 <iframe id="ytplayer" type="text/html" width="720" height="405"
 src="https://www.youtube.com/embed/VXpwr0UI0Zo"
-frameborder="0" allowfullscreen>
+frameborder="0" allowfullscreen></iframe>
 
 Complete How to Video on my YouTube Channel : https://youtu.be/VXpwr0UI0Zo
 
