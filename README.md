@@ -1,4 +1,4 @@
-# MapBoxPanningArea
+# MapBoxPanningArea-Swift
 
 MapBox - Restrict Map Panning To An Area
 https://docs.mapbox.com/ios/maps/examples/constraining-gestures/
